@@ -1,0 +1,12 @@
+.cellStyle{
+    text-align: center;
+    border: 1px solid black;
+    width: 30px;
+    height: 30x;
+    cursor: pointer;
+    color: transparent;
+}
+
+.table{
+    user-select: none;
+}
